@@ -1,0 +1,26 @@
+.wrapper p-dropdown {
+  align-items: center;
+  border: 2px solid #ccc;
+  justify-content: center;
+  text-align: center;
+  margin: 0 1%;
+}
+.wrapper {
+  align-items: center;
+  margin: 0 1%;
+  width: 80%;
+  padding: 10px;
+}
+.dropdowns {
+  display: flex;
+  flex-direction: row;
+  margin: 0 1%;
+}
+
+.p-table th,
+.p-table td {
+  align-items: center;
+  border: 2px solid #ccc;
+  justify-content: center;
+  text-align: center;
+}
